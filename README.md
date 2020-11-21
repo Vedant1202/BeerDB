@@ -62,6 +62,28 @@ npm start
 4. The application can be visited on `http://localhost:3000/` on your preferred browser.
 
 
+## Code formatting:
+
+```bash
+# run prettier
+yarn prettier
+
+# fix prettier errors
+yarn prettier:fix
+```
+
+Or if you have NPM
+
+```bash
+# run prettier
+npm run prettier
+
+# fix prettier errors
+npm run prettier:fix
+```
+
+
+
 ## Screenshots
 
 1. Homepage
