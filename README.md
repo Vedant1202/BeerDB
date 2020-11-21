@@ -10,6 +10,7 @@ A [React](https://reactjs.org/) based application to search and find beers based
 
 ## Features
 
+- **ES9** based latest ECMAScript features
 - Frontend based on the [React](https://reactjs.org/) framework.
 - Component styling based on [Ant.Design](https://ant.design/).
 - [Node Sass](https://www.npmjs.com/package/node-sass) compiler for [Sass](https://sass-lang.com/) files. 
