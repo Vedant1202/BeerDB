@@ -83,6 +83,20 @@ npm run prettier:fix
 ```
 
 
+## Project Structure
+
+```
+public\             # Public static files   
+screenshots\        # Screenshots of application      
+src\
+ |--components\     # Individual components files 
+ |--fonts\          # Fonts from google fonts
+ |--pages\          # Individual pages files
+ |--App.js\         # Main App component
+ |--index.js        # App entry point
+```
+
+
 
 ## Screenshots
 
@@ -105,6 +119,8 @@ npm run prettier:fix
 4. Search Pagination
 
 ![search pagination](https://raw.githubusercontent.com/Vedant1202/BeerDB/master/screenshots/search-pagination.png)
+
+
 
 
 
