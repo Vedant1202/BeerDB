@@ -1,0 +1,16 @@
+.homepage {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    margin-left: -15vw;
+    padding-bottom: 10vh;
+
+    .search-box {
+        width: 40vw;
+        margin: 4vh 0 4vh -7vw;
+    }
+
+    .pages-list {
+        position: absolute;
+    }
+}
