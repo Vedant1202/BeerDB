@@ -1,6 +1,6 @@
 # BeerDB
 
-A [React](https://reactjs.org/) based application to search and find beers based on data provided on this [link](https://s3-ap-southeast-1.amazonaws.com/he-public-data/beercraft5bac38c.json). Images data is provided by this [link](https://s3-ap-southeast-1.amazonaws.com/he-public-data/beerimages7e0480d.json).
+A [React](https://reactjs.org/) based application to search and find beers based on data provided on this [link](https://s3-ap-southeast-1.amazonaws.com/he-public-data/beercraft5bac38c.json). Images data provided by this [link](https://s3-ap-southeast-1.amazonaws.com/he-public-data/beerimages7e0480d.json).
 
 
 #### Application hosted on [https://vedant1202.github.io/BeerDB/](https://vedant1202.github.io/BeerDB/).
