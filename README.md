@@ -7,6 +7,7 @@ A [React](https://reactjs.org/) based application to search and find beers based
 
 ### Github hosted repository at [https://github.com/Vedant1202/BeerDB](https://github.com/Vedant1202/BeerDB).
 
+
 ## Features
 
 - Frontend based on the [React](https://reactjs.org/) framework.
@@ -58,6 +59,30 @@ npm start
 ```
 
 4. The application can be visited on `http://localhost:3000/` on your preferred browser.
+
+
+## Screenshots
+
+1. Homepage
+
+![homepage](https://raw.githubusercontent.com/Vedant1202/BeerDB/master/screenshots/homepage.png)
+
+
+
+2. Pagination
+
+![pagination](https://raw.githubusercontent.com/Vedant1202/BeerDB/master/screenshots/pagination.png)
+
+
+3. Search
+
+![search](https://raw.githubusercontent.com/Vedant1202/BeerDB/master/screenshots/search.png)
+
+
+4. Search Pagination
+
+![search pagination](https://raw.githubusercontent.com/Vedant1202/BeerDB/master/screenshots/search-pagination.png)
+
 
 
 # Getting Started with Create React App
