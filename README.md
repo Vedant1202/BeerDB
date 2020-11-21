@@ -1,3 +1,65 @@
+# BeerDB
+
+A [React](https://reactjs.org/) based application to search and find beers based on data provided on this [link](https://s3-ap-southeast-1.amazonaws.com/he-public-data/beercraft5bac38c.json). Images data is provided by this [link](https://s3-ap-southeast-1.amazonaws.com/he-public-data/beerimages7e0480d.json).
+
+
+### Application hosted on [https://vedant1202.github.io/BeerDB/](https://vedant1202.github.io/BeerDB/).
+
+### Github hosted repository at [https://github.com/Vedant1202/BeerDB](https://github.com/Vedant1202/BeerDB).
+
+## Features
+
+- Frontend based on the [React](https://reactjs.org/) framework.
+- Component styling based on [Ant.Design](https://ant.design/).
+- [Node Sass](https://www.npmjs.com/package/node-sass) compiler for [Sass](https://sass-lang.com/) files. 
+- Network requests handled by [Axios](https://www.npmjs.com/package/axios).
+- Commit hooks by [Husky](https://www.npmjs.com/package/husky).
+- Code styling by [Prettier](https://prettier.io/).
+- Application hosted on Github by [Github Pages](https://pages.github.com/).
+
+
+## Installation
+
+This project would require [Node.js](https://nodejs.org/en/) already installed.
+
+It is recommended to use [Yarn](https://yarnpkg.com/) as a package manager. Otherwise even [NPM](https://www.npmjs.com/) would do.
+
+
+1. Clone the repository and enter into the directory 
+
+```bash
+git clone https://github.com/Vedant1202/BeerDB.git
+cd BeerDB
+## Make sure to be on master branch
+``` 
+
+2. Install packages
+```bash
+yarn
+```
+
+Or if you have npm then
+
+```bash
+npm install
+```
+
+3. Start the server
+
+```bash
+yarn start
+```
+
+Or 
+
+if you have npm
+```bash
+npm start
+```
+
+4. The application can be visited on `http://localhost:3000/` on your preferred browser.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
